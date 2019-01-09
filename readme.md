@@ -1,2 +1,2 @@
-#henlo, welcome to the yeet zone
+#henlo_welcome_to_the_yeet_zone
 is late sghoudl sleept
